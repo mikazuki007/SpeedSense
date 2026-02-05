@@ -1,0 +1,9 @@
+This product includes iperf3.
+
+iperf3 is licensed under the BSD 3-Clause License.
+
+Copyright (c) 2014–2024
+The Regents of the University of California,
+Lawrence Berkeley National Laboratory, and others.
+
+Redistributed in binary form in accordance with its license.
