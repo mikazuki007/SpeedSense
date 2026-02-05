@@ -95,6 +95,6 @@ SpeedSense prioritizes:
 
 User feedback strongly influences development direction.
 
-----------------------------------------
+---------------------------------------
 ✅ End of File
-----------------------------------------
+---------------------------------------
