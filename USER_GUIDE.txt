@@ -1,0 +1,202 @@
+================================================
+📘 SpeedSense – User Guide (Beginner Friendly)
+================================================
+
+Welcome to SpeedSense! 👋  
+This guide explains how to use SpeedSense step by step, even if you
+have no technical background.
+
+------------------------------------------------
+🧭 What is SpeedSense?
+------------------------------------------------
+
+SpeedSense is a tool that checks the **real quality of your internet
+connection**, not just speed.
+
+It measures:
+🚀 Download speed  
+📤 Upload speed  
+⏱ Latency (ping) under load  
+📉 Bufferbloat (lag during activity)  
+📊 Stability, jitter & packet loss  
+🎮 How good your internet is for gaming, streaming & video calls  
+
+------------------------------------------------
+🖥 First-Time Setup
+------------------------------------------------
+
+1️⃣ Extract the ZIP file  
+Right-click the downloaded ZIP → **Extract All**
+
+2️⃣ Open the folder  
+You will see `SpeedSense.exe`
+
+3️⃣ Run as Administrator 🔐  
+Right-click `SpeedSense.exe` → **Run as administrator**
+
+⚠️ This is REQUIRED for accurate results  
+Windows will show a popup — this is normal.
+
+------------------------------------------------
+🪟 Understanding the Main Screen
+------------------------------------------------
+
+You will see:
+
+▶ **Start Test** button  
+🌍 Server mode (Automatic / Manual)  
+📊 Speed gauges (Download & Upload)  
+📈 Live graph  
+🧪 Quality ratings (Gaming, Streaming, Calls)
+
+Don’t worry — you don’t need to change anything to start.
+
+------------------------------------------------
+🚀 How to Run a Speed Test (Easy)
+------------------------------------------------
+
+👉 Recommended for most users:
+
+1️⃣ Make sure **Server Mode = Automatic**
+2️⃣ Leave everything else as default
+3️⃣ Click **Start Test**
+
+That’s it! 🎉
+
+SpeedSense will:
+• Choose the best server automatically  
+• Test download first  
+• Then test upload  
+• Analyze your connection quality  
+
+⏳ Test takes about **30 seconds**
+
+------------------------------------------------
+🌍 Automatic vs Manual Server Mode
+------------------------------------------------
+
+🟢 Automatic (Recommended)
+• SpeedSense chooses the best nearby server
+• Best accuracy
+• Best for beginners
+
+🟡 Manual (Advanced)
+• You choose the server location
+• Useful for testing specific countries
+• Not required for normal use
+
+------------------------------------------------
+📊 Understanding the Results (Simple)
+------------------------------------------------
+
+🚀 Download Speed  
+How fast data comes **to your device**  
+Higher is better.
+
+📤 Upload Speed  
+How fast data goes **from your device**  
+Important for video calls & uploads.
+
+⏱ Latency Under Load  
+Shows if your internet gets laggy while downloading or uploading.
+
+📉 Bufferbloat  
+• Low = smooth internet  
+• High = lag during gaming / calls  
+
+🎯 Connection Quality Grade  
+A simple score like:
+A+ / A / B / C / D
+
+------------------------------------------------
+🎮 Experience Ratings (Very Important)
+------------------------------------------------
+
+SpeedSense shows how your internet performs for real usage:
+
+🎮 Gaming  
+📺 Streaming  
+📞 Video Calls  
+🌐 Browsing  
+
+These are **real-world scores**, not marketing numbers.
+
+------------------------------------------------
+📈 Live Graph vs Final Graph
+------------------------------------------------
+
+📉 Live Graph  
+• Shows speed in real time during the test
+
+📊 Final Graph  
+• Appears after test finishes
+• Shows smoothed results
+• Download & Upload clearly separated
+
+------------------------------------------------
+📶 Wi-Fi Users – Important Tip
+------------------------------------------------
+
+If you are on Wi-Fi:
+• Stay close to your router
+• Avoid heavy usage during test
+• Ethernet gives the best accuracy
+
+SpeedSense will warn you if Wi-Fi signal is weak ⚠️
+
+------------------------------------------------
+⛔ Stopping a Test
+------------------------------------------------
+
+You can stop anytime:
+👉 Click **Stop**
+
+The test will safely end and reset.
+
+------------------------------------------------
+🧾 Test History
+------------------------------------------------
+
+SpeedSense automatically saves results:
+📁 File: `TestResults.txt`
+
+You can:
+• View past tests
+• Compare results
+• Keep records
+
+------------------------------------------------
+⚠ Common Questions
+------------------------------------------------
+
+❓ Why does Windows ask for Administrator permission?
+👉 SpeedSense needs it for accurate network measurements.
+It does NOT modify your system.
+
+❓ Is this safe?
+✅ Yes  
+No drivers, no background services, no tracking.
+
+❓ Why results differ from browser speedtests?
+👉 SpeedSense uses real TCP testing, not web tricks.
+
+------------------------------------------------
+💡 Tips for Best Results
+------------------------------------------------
+
+✔ Close downloads & streams  
+✔ Use Ethernet if possible  
+✔ Run test more than once  
+✔ Test at different times of day  
+
+------------------------------------------------
+📞 Need Help?
+------------------------------------------------
+
+If you need help, have questions, or want new features:
+
+💬 Discord: ( mikazuki007 )
+
+------------------------------------------------
+✅ End of User Guide
+------------------------------------------------
