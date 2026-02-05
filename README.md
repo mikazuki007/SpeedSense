@@ -1,189 +1,80 @@
-# SpeedSense
-SpeedSense is an advanced iperf3-based internet speed test application for Windows, designed to measure real network performance, not inflated marketing numbers.
+🚀 SpeedSense
 
-Unlike typical browser speed tests, SpeedSense focuses on throughput, latency under load, bufferbloat, stability, and TCP efficiency — giving you a true picture of your connection quality.
+SpeedSense is a modern, Windows-only network performance analyzer built on iperf3, designed to show real internet quality, not just raw speed.
 
-✨ Key Features
-📶 Accurate Speed Testing
+It measures download & upload speed, latency under load, bufferbloat, jitter, packet loss, and overall connection quality in a clear, visual way.
 
-TCP download & upload testing using iperf3
+✨ Features
 
-Reverse-mode download testing (server → client)
+🚀 Accurate TCP download & upload testing
 
-Single-stream and multi-stream TCP modes
+⏱ Latency under load & bufferbloat detection
 
-Real-time speed updates with smooth animated gauges
+📊 Jitter, packet loss & TCP efficiency analysis
 
-🌍 Smart Global Server Selection
+🌍 Smart automatic server selection (global servers)
 
-Automatic server selection based on:
+📈 Live and final interactive graphs
 
-Lowest latency
+🎮 Real-world ratings for gaming, streaming & video calls
 
-TCP reachability
-
-Download capability
-
-Manual server selection by country & city
-
-Large global server list (Europe, USA, Asia, Middle East, Africa)
-
-Intelligent server rotation to avoid overload
-
-Automatic failover if a server fails
-
-📡 Advanced Network Metrics
-
-SpeedSense measures far more than just speed:
-
-Latency under load (download & upload)
-
-Bufferbloat detection
-
-Jitter (95th percentile)
-
-Packet loss estimation
-
-TCP congestion control detection
-
-TCP efficiency vs link speed
-
-Traffic shaping probability detection
-
-Path MTU & recommended MSS
-
-🎮 Real-World Quality Analysis
-
-Your connection is evaluated for real usage scenarios:
-
-🎮 Online gaming
-
-📞 Video calls
-
-📺 Streaming (1080p / 1440p / 4K)
-
-🌐 Web browsing
-
-Each test produces:
-
-Connection Quality Grade (A+ to D)
-
-Stability rating (Stable / Fluctuating / Unstable)
-
-Actionable recommendations
-
-📊 Professional Visualization
-
-Live high-performance speed graph
-
-Smooth animated speed gauges
-
-Adjustable gauge scale (100 / 500 / 1000 Mbps)
-
-Final interactive speed chart with:
-
-Smoothed curves
-
-Peak markers
-
-Average lines
-
-Download → upload phase marker
-
-🧠 Intelligent Detection
-
-Detects Wi-Fi vs Ethernet
-
-Estimates Wi-Fi signal strength
-
-Identifies local interface bottlenecks
-
-Detects weak Wi-Fi conditions
-
-Saves full test history automatically
-
-🖥 System Requirements
+🖥 Requirements
 
 Windows 10 / 11 (64-bit)
 
-.NET Framework (included with Windows)
+Run as Administrator (required for accurate results)
 
-iperf3.exe (user-provided)
+No .NET installation needed (self-contained)
 
-⚙️ How to Use
+▶ How to Use
 
-Download SpeedSense from the Releases page
+Download the ZIP from Releases
 
-Launch the application
+Extract it
 
-Select iperf3.exe when prompted
-
-Choose:
-
-Automatic or Manual server mode
-
-Single-stream or Multi-stream TCP
+Right-click SpeedSense.exe → Run as administrator
 
 Click Start Test
 
-View live results and final analysis
+The test completes in about 30 seconds.
 
-📁 Test Results
+🔐 Why Administrator Access?
 
-All test results are saved locally to:
+SpeedSense needs Administrator permission to:
 
-TestResults.txt
+Measure latency accurately (ICMP)
 
+Detect bufferbloat under load
 
-Each entry includes:
+Perform low-level TCP & MTU diagnostics
 
-Server location
+It does not install drivers, does not change system settings, and runs only while open.
 
-Download & upload speed
+🧠 About iperf3
 
-Latency & jitter
+SpeedSense uses iperf3, a trusted open-source network testing tool widely used by ISPs and network engineers.
 
-Bufferbloat
+iperf3 is bundled for user convenience
 
-Packet loss & confidence
+iperf3 is not modified
 
-TCP efficiency
+Full credit belongs to the iperf3 project
 
-Quality grade
+Website: https://iperf.fr/
+
+SpeedSense complies fully with iperf3 licensing.
 
 🔒 License
 
-SpeedSense is free to use, but closed-source.
+✅ Free to use
 
-✅ Free for personal & commercial use
+🔒 Closed-source
 
-❌ No redistribution or resale
+❌ Source code not published
 
-❌ No reverse engineering or modification
+💬 Support
 
-❌ No source code included
+Have feedback or feature requests?
+Contact me on Discord: ( mikazuki007 )
 
-See LICENSE.txt for full terms.
-
-💬 Support & Feedback
-
-If you have:
-
-Bug reports
-
-Feature requests
-
-Improvement ideas
-
-You can open a GitHub Issue
-or contact me on Discord ( mikazuki007 )
-
-⭐ Final Note
-
-SpeedSense is built for users who care about truthful network measurements, not browser-based approximations.
-
-If you want to understand how your internet really behaves under load, this tool is for you.
-
-
-Third-Party Software:
-SpeedSense includes iperf3, which is licensed under the BSD 3-Clause License.
+⭐ If SpeedSense helps you understand your internet better, consider starring the repository!
