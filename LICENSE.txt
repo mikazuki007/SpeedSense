@@ -1,0 +1,56 @@
+SpeedSense License (Freeware – Closed Source)
+
+Copyright (c) 2026 SpeedSense
+All rights reserved.
+
+This software is provided free of charge for personal and commercial use
+in binary (executable) form only.
+
+PERMITTED USE
+- You may use this software free of charge.
+- You may use this software for personal or commercial purposes.
+
+RESTRICTIONS
+- Redistribution, resale, sublicensing, or rehosting of this software
+  as a standalone product is strictly prohibited.
+- Modification, reverse engineering, decompilation, or disassembly
+  of this software is not permitted.
+- The source code of SpeedSense is not provided and remains private.
+- You may not bundle SpeedSense with other products or services
+  without explicit written permission.
+
+THIRD-PARTY SOFTWARE – IPERF3
+
+SpeedSense includes and uses the network testing tool "iperf3".
+
+iperf3 is developed by the ESnet project and is licensed under the
+BSD 3-Clause License.
+
+iperf3 Copyright (c) 2014–2024, The Regents of the University of California,
+Lawrence Berkeley National Laboratory, and others.
+All rights reserved.
+
+iperf3 is redistributed with SpeedSense in unmodified binary form
+in accordance with the terms of the BSD 3-Clause License.
+
+The BSD 3-Clause License permits redistribution and use in binary form,
+with or without modification, provided that the original copyright
+notice, conditions, and disclaimer are retained.
+
+iperf3 is a separate and independent work. All rights, ownership,
+and licensing terms for iperf3 remain with its respective authors.
+
+SpeedSense is not affiliated with, endorsed by, or sponsored by the
+iperf3 or ESnet projects.
+
+DISCLAIMER
+This software is provided "AS IS", without warranty of any kind, express
+or implied, including but not limited to warranties of merchantability,
+fitness for a particular purpose, or non-infringement.
+
+In no event shall the author be liable for any claim, damages, or other
+liability, whether in an action of contract, tort, or otherwise,
+arising from, out of, or in connection with the software or the use
+or other dealings in the software.
+
+By using this software, you agree to the terms of this license.
