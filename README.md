@@ -195,3 +195,7 @@ Per-ISP comparison
 SpeedSense is built for users who care about truthful network measurements, not browser-based approximations.
 
 If you want to understand how your internet really behaves under load, this tool is for you.
+
+
+Third-Party Software:
+SpeedSense includes iperf3, which is licensed under the BSD 3-Clause License.
