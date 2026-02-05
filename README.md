@@ -176,19 +176,7 @@ Feature requests
 Improvement ideas
 
 You can open a GitHub Issue
-or contact me on Discord (add your Discord here)
-
-🛣 Planned Features (Roadmap)
-
-UDP testing mode
-
-Export results (CSV / JSON)
-
-Portable version
-
-Dark / Light theme toggle
-
-Per-ISP comparison
+or contact me on Discord ( mikazuki007 )
 
 ⭐ Final Note
 
