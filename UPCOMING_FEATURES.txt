@@ -1,0 +1,100 @@
+========================================
+🚀 SpeedSense – Upcoming Features
+========================================
+
+This document outlines planned features for future versions of SpeedSense.
+All items are subject to change based on stability, testing, and user feedback.
+
+----------------------------------------
+⏳ Short-Term (Next Releases)
+----------------------------------------
+
+🔐 Automatic Administrator Elevation  
+SpeedSense will detect when it is not running with Administrator
+privileges and prompt the user to restart automatically.
+
+🔔 Built-in Update Checker  
+Notify users when a new version is available, with a direct
+download link from GitHub Releases.
+
+🧪 Improved Startup Diagnostics  
+Clearer messages if:
+• Administrator access is missing  
+• Network permissions are restricted  
+• Required components are blocked by security software  
+
+📦 Smaller Package Size  
+Further optimization of the self-contained build to reduce
+download size without sacrificing reliability.
+
+🌍 Smarter Server Health Intelligence  
+• Improved server cooldown handling  
+• Faster automatic fallback switching  
+• Better detection of temporary server maintenance  
+
+----------------------------------------
+🛠 Mid-Term (Feature Enhancements)
+----------------------------------------
+
+📡 UDP Performance Testing (Optional)  
+Advanced users will be able to test:
+• UDP packet loss  
+• UDP jitter  
+• UDP latency  
+
+(Disabled by default to avoid ISP shaping confusion.)
+
+🎮 Per-Application Network Impact Mode  
+Measure how active traffic (gaming, streaming, downloads)
+affects latency and stability in real time.
+
+📶 Advanced Wi-Fi Diagnostics  
+• Channel congestion detection  
+• Interference and bandwidth hints  
+• More detailed Wi-Fi signal analysis  
+
+📤 Export Test Results  
+• CSV export for spreadsheets  
+• JSON export for advanced analysis  
+
+----------------------------------------
+🧠 Long-Term (Experimental / Research)
+----------------------------------------
+
+📊 Persistent Test History & Trends  
+Track performance over time and highlight:
+• Stability improvements  
+• ISP throttling patterns  
+• Peak usage issues  
+
+🕵️ ISP Behavior Analysis  
+Detect patterns such as:
+• Time-based throttling  
+• Congestion during peak hours  
+• Inconsistent routing  
+
+🧩 Custom Server Lists  
+Allow advanced users to:
+• Add their own iperf3 servers  
+• Import and export server lists  
+
+⌨ Headless / CLI Mode  
+Run SpeedSense in command-line mode for:
+• Scheduled testing  
+• Automation  
+• Remote diagnostics  
+
+----------------------------------------
+📌 Notes
+----------------------------------------
+
+SpeedSense prioritizes:
+• 🎯 Accuracy over marketing numbers  
+• 🧱 Stability over aggressive features  
+• 🔍 Transparency over black-box results  
+
+User feedback strongly influences development direction.
+
+----------------------------------------
+✅ End of File
+----------------------------------------
